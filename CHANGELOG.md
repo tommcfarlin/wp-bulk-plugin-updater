@@ -7,15 +7,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-## [1.0.0] - 2025-05-09
-
 ### Added
 - Initial release of WP Bulk Plugin Updater
 - Automatic detection of plugins needing updates
 - Individual Git commits for each plugin update
 - Identification of premium plugins requiring manual updates
 - Logging system for tracking updated plugins and those requiring manual intervention
-- Command-line options: --dry-run, --no-push, --branch, --help
+- Command-line options: `--dry-run`, `--no-push`, `--branch`, `--help`
 - Comprehensive error handling and environment validation
 - Detailed progress reporting during execution
 
